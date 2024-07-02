@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumar&label=Profile%20views&color=0e75b6&style=flat" alt="saikumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@sai56060390" target="blank"><img src="https://img.shields.io/twitter/follow/@sai56060390?logo=twitter&style=for-the-badge"  /></a> </p>
-###
+
 
 ###
 
@@ -25,13 +25,7 @@
 
 ###
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
