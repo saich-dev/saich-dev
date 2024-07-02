@@ -16,6 +16,13 @@
 - 📫 How to reach me **saikumar.challa123@gmail.com**
 
 - ⚡ Fun fact *****I am Funny*****
+  <br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/saikumar/count.svg?"  />
+</div>
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
