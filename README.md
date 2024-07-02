@@ -7,21 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@sai56060390" target="blank"><img src="https://img.shields.io/twitter/follow/@sai56060390?logo=twitter&style=for-the-badge"  /></a> </p>
 
-
 ###
 
-<div align="left">
-  <img src="https://www.instagram.com/sai_ch9496?igsh=MW8yaHFsajNkaDA3Mw==" height="35" alt="instagram logo"  />
-  <img src="https://www.facebook.com/profile.php?id=100015312161809&mibextid=ZbWKwL" height="35" alt="facebook logo"  />
-  <img src="https://www.linkedin.com/in/sai-kumar-57960a79/" height="35" alt="linkedin logo"  />
-</div>
+<h3 align="left">👩‍💻  About Me</h3>
+
 ###
-
-
-
-
-
-
 
 - 🔭 I’m currently working on **Capstone project**
 
