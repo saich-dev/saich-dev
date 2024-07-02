@@ -5,7 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumar&label=Profile%20views&color=0e75b6&style=flat" alt="saikumar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sai56060390" target="blank"><img src="https://img.shields.io/twitter/follow/@sai56060390?logo=twitter&style=for-the-badge" alt="@sai56060390" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@sai56060390" target="blank"><img src="https://img.shields.io/twitter/follow/@sai56060390?logo=twitter&style=for-the-badge"  /></a> </p>
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
 
 - 🔭 I’m currently working on **Capstone project**
 
