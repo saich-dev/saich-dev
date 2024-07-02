@@ -6,14 +6,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumar&label=Profile%20views&color=0e75b6&style=flat" alt="saikumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@sai56060390" target="blank"><img src="https://img.shields.io/twitter/follow/@sai56060390?logo=twitter&style=for-the-badge"  /></a> </p>
+###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<div align="left">
+  <img src="https://www.instagram.com/sai_ch9496?igsh=MW8yaHFsajNkaDA3Mw==" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="linkedin.com/in/sai-kumar-57960a79/" height="35" alt="linkedin logo"  />
+</div>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 - 🔭 I’m currently working on **Capstone project**
